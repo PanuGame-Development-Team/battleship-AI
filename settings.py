@@ -1,0 +1,9 @@
+HOST = "127.0.0.1"
+PORT = 35669
+ENCODING = "UTF8"
+BUFSIZE = 65536
+
+MAPSIZE = 5
+cnt_2 = 3
+cnt_3 = 1
+cnt_5 = 1
